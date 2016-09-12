@@ -1,0 +1,9 @@
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Calculator.resources
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
