@@ -7,3 +7,12 @@ c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Ca
 c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
 c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
 c:\users\ashwini\documents\visual studio 2015\Projects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Calculator.resources
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\Hamsalekha\Desktop\ACS560_HW\Ashwini\Homework_02\C Sharp\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
