@@ -3,15 +3,16 @@ Aswini ACS560 Score report
 Homework1 - 100/100
 Homework2 - 100/100
 Homework3 - 100/100
+Homework4 - 90/100
 Homework5 - 100/100
+Homework6 - 100/100
 Homework7 - 100/100
 Homework8 - 
-Homework9 - 
 
 
 Course Project
 
 Requirements - 90/100 (In the written document, the functional requirements do not provide the sufficient information on the services provided to (end) users.)
-System Modeling - 
+System Modeling - 100/100
 Coding Round 1 - 
 Final Presentation - 
